@@ -48,16 +48,16 @@ a, a:hover, a:active{ outline:0px !important}
 /* Primary Styles
 ---------------------------------*/
 body {
-	background:#fff;
+	background:#2F0760;
 	font-family: 'Open Sans', sans-serif;
 	font-size:14px;
 	font-weight:normal;
-	color:#888888;
+	color:#ffffff;
 	margin:0;
 }
 h2{
 	font-size:34px;
-	color:#222222;
+	color:#ffffff;
 	font-family: 'Montserrat', sans-serif;
 	font-weight:700;
 	letter-spacing: -1px;
@@ -67,7 +67,7 @@ h2{
 }
 h3{
 	font-family: 'Montserrat', sans-serif;
-	color:#222222;
+	color:#ffffff;
 	font-size:16px;
 	margin:0 0 5px 0;
 	text-transform:uppercase;
@@ -91,7 +91,7 @@ p{
 
 .header{
 	text-align:center;
-	background:url(../img/tecno.png) left top repeat;
+	background:url(../img/fondo-gris2.png) left top repeat;
 	padding:280px 0;
 }
 .logo{
@@ -104,7 +104,7 @@ p{
 	font-weight:400;
 	letter-spacing: -1px;
 	margin:0 0 22px 0 ;
-	color:#fff;
+	color:#67EB46;
 }
 
 .we-create{
@@ -125,7 +125,7 @@ p{
 	list-style-type:none;
 	font-family: 'Montserrat',sans-serif;
 	font-size: 1.5em;
-	color: #bcbcbc;
+	color: #56EFEF;
 	text-transform: uppercase;
 	font-weight: 400;
 	margin:0 5px 0 0;
